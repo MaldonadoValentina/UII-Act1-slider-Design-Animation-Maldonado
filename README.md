@@ -1,16 +1,16 @@
-# myapp
+# Act1-_FlutterTripApplicationUIDesignandAnimation_FireBaseStudio
+FireBaseStudio
 
-A new Flutter project.
+# Pantalla:
 
-## Getting Started
+1/4
+- ![image](https://github.com/user-attachments/assets/9873835b-c554-42d9-a4e8-84f98476e22a)
 
-This project is a starting point for a Flutter application.
+2/4
+- ![image](https://github.com/user-attachments/assets/f2a07e85-ae1c-413d-a4e5-5c6c74be4df3)
 
-A few resources to get you started if this is your first Flutter project:
+3/4
+- ![image](https://github.com/user-attachments/assets/367b9e31-9191-4135-9dea-70ae8d8c78a1)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4/4
+- ![image](https://github.com/user-attachments/assets/2e290e45-ba4a-4825-9a9b-9575991efd67)
